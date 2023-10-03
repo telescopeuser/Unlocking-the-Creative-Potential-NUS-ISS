@@ -4,9 +4,9 @@
 
 - **Generative AI Storytelling Adventure (Hands-on Workshop)**
 
-[Github Source:](https://github.com/telescopeuser/Unlocking-the-Creative-Potential) https://github.com/telescopeuser/Unlocking-the-Creative-Potential
+[Github Source:](https://github.com/telescopeuser/Unlocking-the-Creative-Potential-NUS-ISS) https://github.com/telescopeuser/Unlocking-the-Creative-Potential-NUS-ISS
 
-![](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/blob/main/media/001.png)
+![](https://github.com/telescopeuser/Unlocking-the-Creative-Potential-NUS-ISS/blob/main/media/001.png)
 
 **Objective:** Introduce students to the world of generative AI and enable them to collaborate and produce a short storytelling video using AI tools.
 
@@ -31,13 +31,13 @@ Introduction to relevant online tools for the workshop:
  - [Mubert](https://mubert.com/) or [Jukebox](https://openai.com/research/jukebox) for music generation
  - [Veed.io](https://www.veed.io/) for video editing, text to speech, subtitles
 
-A quick demo of how to use these tools, and an [AI co-created video](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/tree/main/demo/Step%208%20Use%20video%20editing%20tool%20to%20integrate%20all%20media%20resources).
+A quick demo of how to use these tools, and an [AI co-created video](https://github.com/telescopeuser/Unlocking-the-Creative-Potential-NUS-ISS/tree/main/demo/Step%208%20Use%20video%20editing%20tool%20to%20integrate%20all%20media%20resources).
 
 ---
 
 ## **Hands-On AI Generation: Multi-Media Storytelling (30 minutes)**
 
-***Refer to this [Workshop Guide/Workbook](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/blob/main/guide/) for collabration and step-by-step guide.***
+***Refer to this [Workshop Guide/Workbook](https://github.com/telescopeuser/Unlocking-the-Creative-Potential-NUS-ISS/blob/main/guide/) for collabration and step-by-step guide.***
 
 ---
 
