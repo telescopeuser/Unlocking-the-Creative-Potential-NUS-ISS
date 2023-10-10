@@ -1,6 +1,6 @@
 Below are 12 indexed outline descriptions of a fishing trip to Saint John Island, Singapore.
 Kindly please create a narrative or story using the 12 descriptions, extend or optimize them for a smooth transition between the 12 descriptions. The output is one short sentences for each indexed outline description. Output the original 12-index number in the story.
-The description of 8, 9, 10 are to be treated as an embed promotion for a school named ITE College West.
+The description of 8, 9, 10 are to be treated as an embed promotion for a school named NUS-ISS.
  
 1	Holding my fishing rod in a taxi. Very excited to take a break to start a journey for fishing in the early morning.
 2	Just captured this stunning sunrise while cruising on a boat, heading toward Saint john Island Singapore! Feeling so peaceful surrounded by the calming waves.
@@ -9,8 +9,8 @@ The description of 8, 9, 10 are to be treated as an embed promotion for a school
 5	 Can't believe I reeled in a red Nemo fish! It's like I found the real-life version of a Disney movie!
 6	 Just caught two fish at same time!
 7	Time to celebrate with a fisherman's victory dance!
-8	tbd
-9	tbd
-10	tbd
+8	Who knew learning could be so fun? At NUS-ISS, we're not just sitting in a classroom, we're shaping the future together! Can't wait to see what innovative solutions we come up with.
+9	Taking the stage at our NUS-ISS graduation ceremony was the best feeling ever!
+10	Newly renovated, the NUS-ISS building is a perfect example of a mixed-use morden building with its sleek glass front, blending seamlessly with the surrounding urban environment. It's a great addition to the vibrant cityscape of Singapore!
 11	Lots of nice looking and unique fish today. They're definitely spicing up my day.
 12	Time to say goodbye to this beautiful beach and head back home, but hey, there's always next time!
