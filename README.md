@@ -14,7 +14,7 @@
 
 **Outline:**
 
-## **Introduction to Generative AI (15 minutes)**
+## **Introduction to Generative AI**
 
 Brief overview of AI and Generative AI
 
@@ -22,7 +22,7 @@ Real-world applications and implications
 
 Showcase examples of generative artworks, music, stories, etc.
 
-## **Getting Started with Tools & Resources (10 minutes)**
+## **Getting Started with Tools & Resources**
 
 Introduction to relevant online tools for the workshop:
  - [Pallyy](https://pallyy.com/tools/image-caption-generator) for captioning images
@@ -35,7 +35,7 @@ A quick demo of how to use these tools, and an [AI co-created video](https://git
 
 ---
 
-## **Hands-On AI Generation: Multi-Media Storytelling (30 minutes)**
+## **Hands-On AI Generation: Multi-Media Storytelling**
 
 ***Refer to this [Workshop Guide/Workbook](https://github.com/telescopeuser/Unlocking-the-Creative-Potential-NUS-ISS/blob/main/guide/) for collabration and step-by-step guide.***
 
@@ -81,7 +81,7 @@ A quick demo of how to use these tools, and an [AI co-created video](https://git
 
 - **Assemble a Video:** Use a video editing tool, Veed.io, Canva or other online platform, the Director and team can integrate the AI-generated story, visuals (images/videos), voiceover, subtitles, and background music to form a 1-2 minutes short video.
 
-## **Presentation & Voting (5 minutes)**
+## **Presentation & Voting**
 
 Each group presents their short video.
 
