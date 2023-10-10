@@ -10,7 +10,7 @@
 
 **Objective:** Introduce students to the world of generative AI and enable them to collaborate and produce a short storytelling video using AI tools.
 
-**Duration:** 1 hour
+**Duration:** 1~2 hours
 
 **Outline:**
 
